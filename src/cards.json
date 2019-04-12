@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "rachel.jpg"
+  },
+  {
+    "id": 2,
+    "image": "pheobe.jpg"    
+  },
+  {
+    "id": 3,
+    "image": "monica.jpg"
+  },
+  {
+    "id": 4,
+    "image": "joey.jpg" 
+  },
+  {
+    "id": 5,
+    "image": "ross.jpg"
+  },
+  {
+    "id": 6,
+    "image": "chandler.jpg"
+  },
+  {
+    "id": 7,
+    "image": "richard.jpg"
+  },
+  {
+    "id": 8,
+    "image": "gunther.jpg"
+  },
+  {
+    "id": 9,
+    "image": "janice.jpg"
+  }
+]
